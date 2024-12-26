@@ -10,7 +10,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb+srv://mugeskumar3:jlGkAgeZeQaUhh3Q@cluster0.aqgewzu.mongodb.net/realestate', {
+mongoose.connect('mongodb+srv://mugeskumar03:ogxlaUwqA2drNxNz@mugeskumar.y3gt6.mongodb.net//realestate', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
